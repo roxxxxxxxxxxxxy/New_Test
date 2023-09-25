@@ -33,3 +33,4 @@ git add - сохранение
 git status 
 git branch
 git - контроль версий
+git branch name - создать ветку
