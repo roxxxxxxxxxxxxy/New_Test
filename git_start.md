@@ -32,3 +32,4 @@ git add - сохранение
 ## Семинар 2
 git status 
 git branch
+git branch name - создать ветку
